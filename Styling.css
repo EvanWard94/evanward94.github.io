@@ -1,0 +1,12 @@
+main{
+    border: 1px solid lightgrey;
+    background-color: white;
+    height: auto;
+    min-height: 550px; 
+    margin-left: 115px;
+    margin-right: 70px;
+    margin-top: 50px;
+    margin-bottom:40px;
+    box-shadow: 1px 5px 15px 5px lightgrey;
+    font-family: Helvetica, sans-serif;
+}
