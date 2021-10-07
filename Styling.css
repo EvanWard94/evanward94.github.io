@@ -4,7 +4,7 @@ body{
 	margin:0 auto;
 	max-width: 1000px;
 	clear:both;
-    min-height: 1200px;
+    min-height: 900px;
 }
 h1{
     text-align: center;
@@ -15,7 +15,7 @@ table{
 
 }
 main{
-    min-height: 1200p;
+    min-height: 900p;
 }
 p{
     text-indent: 3px;
