@@ -17,3 +17,6 @@ table{
 main{
     min-height: 1200p;
 }
+p{
+    text-indent: 3px;
+}
