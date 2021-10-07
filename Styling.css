@@ -5,7 +5,6 @@ body {
 	max-width: 1000px;
 	clear:both;
 	min-height: 900px;
-	margin-right: 20px;
 }
 h1 {
     text-align: center;
@@ -28,4 +27,5 @@ p {
 
 #responses {
 	margin-left: 60px;
+	margin-right: 20px;
 }
