@@ -30,12 +30,12 @@ p {
     margin-left: 40px;
 }
 
-#responses {
+.responses {
 	padding-left: 60px;
 	padding-right: 20px;
 }
 
-#responses_subpart {
+.responses_subpart {
 	padding-left: 80px;
 }
 
