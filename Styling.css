@@ -2,9 +2,14 @@ body{
 	border: 3px solid black;
 	box-shadow: 0px 10px 20px 10px black;
 	margin:0 auto;
-	max-width: 900px;
+	max-width: 1000px;
 	clear:both;
 }
 h1{
     text-align: center;
+}
+table{
+    border: 1.5px solid black;
+    text-align: center;
+    
 }
