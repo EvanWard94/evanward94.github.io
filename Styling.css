@@ -14,3 +14,6 @@ table{
     text-align: center;
 
 }
+main{
+    min-height: 1200p;
+}
